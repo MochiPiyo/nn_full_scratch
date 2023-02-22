@@ -1,13 +1,13 @@
 # Neural Network pretend to learn !
 
 the challenge to build full scratch neural network
-end up with something look like 2layer mnist learner but 
+end up with something look like 2 layer mnist learner but 
 actually do not learn.
 
 
 
 
-what I new about this silly spagenty code.
+What I know about this silly code is
 ・it seems ok in first or maybe first and second epoch, but after that...
 ・only weights of eatch Affine layer are not learnable, biases of eatch affine layer
 are updated correctly in all epoches.
