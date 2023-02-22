@@ -1,4 +1,4 @@
-# this NN Do Not Learn
+# Neural Network pretend to learn !
 
 the challenge to build full scratch neural network
 end up with something look like 2layer mnist learner but 
