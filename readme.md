@@ -8,6 +8,7 @@ actually do not learn.
 
 
 What I know about this silly code is
+
 ・it seems ok in first or maybe first and second epoch, but after that...
 ・only weights of eatch Affine layer are not learnable, biases of eatch affine layer
 are updated correctly in all epoches.
